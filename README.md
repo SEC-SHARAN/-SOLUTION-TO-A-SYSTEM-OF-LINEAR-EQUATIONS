@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: RAAGAVI R M
-#RegisterNumber: 212224220074
+#Developed by: SHARAN S
+#RegisterNumber: 212224040309
 import numpy as np
 A = np.array([[5, -3, -10],
               [2, 2, -3],
@@ -27,7 +27,7 @@ solution = np.linalg.solve(A, B)
 print(solution)
 ```
 ## Output:
-<img width="1394" height="926" alt="image" src="https://github.com/user-attachments/assets/35d304b5-71b9-4e6c-8970-18ce1be2fa21" />
+<img width="1244" height="738" alt="Screenshot 2025-08-26 161218" src="https://github.com/user-attachments/assets/45196bce-cdc3-4a34-806f-8f5dc3bc84b6" />
 
 
 ## Result: 
